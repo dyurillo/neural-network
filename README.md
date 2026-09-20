@@ -24,7 +24,7 @@ This project implements a neural network from scratch in C++ to modulate backgro
 
 1. Clone the repository:
 ```
-git clone https://github.com/aroundlylily/NeuralNetwork.git
+git clone https://github.com/dyurillo/NeuralNetwork.git
 cd NeuralNetwork
 ```
 2. Create a build directory and compile:
@@ -49,4 +49,4 @@ make
 ## Future Enhancements
 
 - Implement GPU acceleration with CUDA or OpenCL
-- Expand functionality for RBG values
+- Expand functionality for RGB values
