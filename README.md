@@ -24,7 +24,7 @@ This project implements a neural network from scratch in C++ to modulate backgro
 
 1. Clone the repository:
 ```
-git clone https://github.com/dyurillo/NeuralNetwork.git
+git clone https://github.com/dyurillo/neural-network.git
 cd NeuralNetwork
 ```
 2. Create a build directory and compile:
