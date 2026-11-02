@@ -1,4 +1,4 @@
-# NeuralNetwork
+# neural-network
 
 This project implements a neural network from scratch in C++ to modulate background color values to fit user-defined target points.
 
